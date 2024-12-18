@@ -5,8 +5,7 @@ This project delivers insights from an exploratory data analysis (EDA) performed
 
 ---
 
-## Check the results of the project in the Executive Summary (Link to the file: [Executive Summary - EDA Coffee Shop Sales.pdf])
-
+## Check the results of the analysis in the Executive Summary [Link to the file](Executive Summary - EDA Coffee Shop Sales.pdf)
 
 ---
 
