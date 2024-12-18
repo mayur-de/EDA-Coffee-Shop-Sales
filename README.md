@@ -5,8 +5,7 @@ This project delivers insights from an exploratory data analysis (EDA) performed
 
 ---
 
-## Check the results of the analysis in the Executive Summary [Link to the file](.Executive Summary - EDA Coffee Shop Sales.pdf)
-
+## Check the results of the analysis in the [Executive Summary](https://github.com/mayur-de/EDA-Coffee-Shop-Sales/blob/main/Executive%20Summary%20-%20EDA%20Coffee%20Shop%20Sales.pdf)
 ---
 
 ## Objectives
@@ -29,6 +28,10 @@ The analysis was driven by Maven Roasters' need to gain deeper insights into the
 - Optimize inventory management.
 - Enhance customer experiences.
 - Boost revenue and improve operational efficiency.
+
+---
+
+## Data Source: [Maven Analytics[ (https://mavenanalytics.io/data-playground)
 
 ---
 
