@@ -31,7 +31,7 @@ The analysis was driven by Maven Roasters' need to gain deeper insights into the
 
 ---
 
-## Data Source: [Maven Analytics] (https://mavenanalytics.io/data-playground)
+## Data Source: [Maven Analytics](https://mavenanalytics.io/data-playground)
 
 ---
 
