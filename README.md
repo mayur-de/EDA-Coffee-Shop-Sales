@@ -102,7 +102,7 @@ The following tools and libraries were used to conduct the analysis:
 
 ## Insights and Business Implications
 
-The analysis offers key insights that can guide strategic decision-making for Maven Roasters. Detailed results are available in the [Executive Summary] (https://github.com/mayur-de/EDA-Coffee-Shop-Sales/blob/main/Executive%20Summary%20-%20EDA%20Coffee%20Shop%20Sales.pdf).
+The analysis offers key insights that can guide strategic decision-making for Maven Roasters. Detailed results are available in the [Executive Summary](https://github.com/mayur-de/EDA-Coffee-Shop-Sales/blob/main/Executive%20Summary%20-%20EDA%20Coffee%20Shop%20Sales.pdf).
 
 ---
 
