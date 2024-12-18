@@ -5,8 +5,7 @@ This project delivers insights from an exploratory data analysis (EDA) performed
 
 ---
 
-## Check the results of the analysis in the Executive Summary [Link to the file](Executive Summary - EDA Coffee Shop Sales.pdf)
-
+## Check the results of the analysis in the Executive Summary [Link to the file]([permalink-to-your-file](https://github.com/mayur-de/EDA-Coffee-Shop-Sales/blob/f63f4b2af9ead09843fc3251cb6408876c06bfec/Executive%20Summary%20-%20EDA%20Coffee%20Shop%20Sales.pdf))
 ---
 
 ## Objectives
