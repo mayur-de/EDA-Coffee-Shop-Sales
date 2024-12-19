@@ -85,7 +85,7 @@ The following tools and libraries were used to conduct the analysis:
 - **Python:** The core programming language for data manipulation and analysis.
 - **Pandas:** Used for data wrangling and manipulation.
 - **NumPy:** Utilized for numerical operations.
-- **Matplotlib (Pyplot) and Seaborn (sns):** Employed for creating visualizations.
+- **Matplotlib (Pyplot) and Seaborn:** Employed for creating visualizations.
 - **Plotly:** Used for developing interactive charts and visual dashboards.
 
 ---
